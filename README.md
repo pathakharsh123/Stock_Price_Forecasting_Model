@@ -41,3 +41,13 @@ The dataset contains daily stock price data for NTT, including the following fea
   
   ```bash
   pip install -r requirements.txt
+  ## Dependencies
+
+To install the required libraries, make sure your `requirements.txt` file contains the following:
+
+```txt
+pandas
+numpy
+keras
+scikit-learn
+matplotlib
